@@ -8,6 +8,13 @@ nupkg/
 # Visual Studio Code
 .vscode
 
+# Assets
+.png
+.jpg
+.ico
+.mp3
+.wav
+
 # Rider
 .idea
 
