@@ -1,5 +1,9 @@
 # CrackMe #2 by falcon1
 
+<div align="center">
+  <img src="proof.png" height="400px" width="auto">
+</div>
+
 ## Summary 
 Difficulty: Easy
 Packed: No
