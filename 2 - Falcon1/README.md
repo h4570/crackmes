@@ -5,9 +5,9 @@
 </div>
 
 ## Summary 
-Difficulty: Easy
-Packed: No
-Anti-debug: Yes
+Difficulty: Easy  
+Packed: No  
+Anti-debug: Yes  
 
 ---
 
