@@ -95,6 +95,7 @@ namespace Keygen
             foreach (Process process in Process.GetProcesses())
             {
                 var skipNames = new string[] { "svchost", "conhost", "msedge", "chrome" };
+
                 if (!skipNames.Contains(process.ProcessName))
                 {
                     ProcessComboBox.Items.Add(process.ProcessName);
