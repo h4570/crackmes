@@ -1,9 +1,9 @@
 # CrackMe #1 (C++) by NBS
 
 ## Summary 
-Difficulty: Easy
-Packed: No
-Anti-debug: No
+Difficulty: Easy  
+Packed: No  
+Anti-debug: No  
 
 ---
 
