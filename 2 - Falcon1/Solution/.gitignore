@@ -9,11 +9,11 @@ nupkg/
 .vscode
 
 # Assets
-.png
-.jpg
-.ico
-.mp3
-.wav
+*.png
+*.jpg
+*.ico
+*.mp3
+*.wav
 
 # Rider
 .idea
