@@ -1,9 +1,13 @@
 # CrackMe #3 by mohammadali
 
+<div align="center">
+  <img src="proof.png" height="400px" width="auto">
+</div>
+
 ## Summary 
-Difficulty: 2/6
-Packed: No
-Anti-debug: No
+Difficulty: 2/6  
+Packed: No  
+Anti-debug: No  
 
 ---
 
