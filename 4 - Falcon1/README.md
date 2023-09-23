@@ -1,9 +1,13 @@
 # CrackMe #4 by Falcon1
 
+<div align="center">
+  <img src="proof.png" height="400px" width="auto">
+</div>
+
 ## Summary 
-Difficulty: 2/6
-Packed: No
-Anti-debug: Yes
+Difficulty: 2/6  
+Packed: No  
+Anti-debug: Yes  
 
 ---
 
